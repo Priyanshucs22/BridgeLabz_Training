@@ -16,19 +16,23 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 ---
 ## 📂 Project Structure
 
+```text
 core-java-practice/
 │
 ├── gcr-codebase/
-│ ├── programming-elements/
-│ └── control-flow/
+│   ├── programming-elements/
+│   └── control-flow/
+│
 ├── leet-code-codebase/
+│
 └── scenario-based/
+```
 
 ---
 
 ## 📌 Folder Details
 
-### 1️⃣ [gcr-codebase](core-java-practice/gcr-codebase)
+### 1️⃣ [gcr-codebase](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase)
 Contains fundamental Core Java concepts.
 
 #### 📁 [programming-elements](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
@@ -45,7 +49,7 @@ Contains fundamental Core Java concepts.
 
 ---
 
-### 2️⃣ [leet-code-codebase](core-java-practice/leet-code-codebase)
+### 2️⃣ [leet-code-codebase](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/Leet-code-codebase)
 Contains **10 Java problems** solved for:
 - Logic building
 - Problem-solving practice
@@ -55,7 +59,7 @@ Each problem is implemented using **optimized and readable Java code**.
 
 ---
 
-### 3️⃣ [scenario-based](core-java-practice/scenario-based)
+### 3️⃣ [scenario-based](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/scenario-based)
 Contains **real-world and scenario-based Java problems**, focusing on:
 - Practical implementation
 - Logical thinking
@@ -91,4 +95,5 @@ Capgemini Trainee
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
