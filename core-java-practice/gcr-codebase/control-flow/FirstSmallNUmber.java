@@ -11,6 +11,7 @@ public class FirstSmallNUmber {
             System.out.println(num2 + " is the smallest number");
         } else {
             System.out.println(num3 + " is the smallest number");
+        }
+        sc.close();
     }  
-}  
 }

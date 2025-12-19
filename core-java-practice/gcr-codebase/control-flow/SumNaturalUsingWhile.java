@@ -15,5 +15,6 @@ public class SumNaturalUsingWhile {
         } else {
             System.out.println("There is an error in the calculation.");
         }
+        sc.close();
     }
 }

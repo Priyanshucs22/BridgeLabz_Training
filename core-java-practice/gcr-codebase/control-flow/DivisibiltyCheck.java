@@ -9,5 +9,6 @@ public class DivisibiltyCheck {
         } else {
             System.out.println("Not Divisible by 5");
         }
+        scanner.close();
     }
 }

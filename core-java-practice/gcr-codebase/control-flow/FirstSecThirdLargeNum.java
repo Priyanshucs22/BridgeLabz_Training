@@ -28,5 +28,6 @@ public class FirstSecThirdLargeNum {
         System.out.println("Is the first number the largest? " + isFirstLargest);
         System.out.println("Is the second number the largest? " + isSecondLargest);
         System.out.println("Is the third number the largest? " + isThirdLargest);
+        sc.close();
     }
 }

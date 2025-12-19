@@ -7,5 +7,6 @@ public class CountDown {
             System.out.println(n);
             n--;
         }
+        sc.close();
     }
 }

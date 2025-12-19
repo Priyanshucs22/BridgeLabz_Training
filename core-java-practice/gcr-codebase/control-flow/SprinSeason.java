@@ -10,5 +10,6 @@ public class SprinSeason {
         else {
             System.out.println("It's not spring season.");
         }
+        sc.close();
     }
 }

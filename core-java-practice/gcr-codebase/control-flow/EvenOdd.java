@@ -10,5 +10,6 @@ public class EvenOdd {
                 System.out.println(i + " is an Odd number");
             }
         }
+        sc.close();
     }
 }

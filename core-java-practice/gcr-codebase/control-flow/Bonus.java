@@ -10,5 +10,6 @@ public class Bonus {
         } else {
             System.out.println("No bonus");
         }
+        sc.close();
     }
 }
