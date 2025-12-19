@@ -1,0 +1,86 @@
+# BridgeLabz Core Java Practice
+
+This repository contains my **Core Java practice work** done as part of **BridgeLabz training**.  
+It includes Java fundamentals, problem-solving practice, and scenario-based implementations.
+
+---
+
+## 🌿 Branch Structure
+
+- **main**
+  - Empty (default branch)
+
+- **core-java-practice**
+  - Contains all Core Java related practice code
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 📌 Folder Details
+
+### 1️⃣ gcr-codebase
+Contains fundamental Core Java concepts.
+
+#### 📁 programming-elements
+- Variables
+- Data Types
+- Operators
+- Input / Output
+- Basic Java syntax
+
+#### 📁 control-flow
+- Conditional Statements (if, if-else, switch)
+- Loops (for, while, do-while)
+- Flow control logic
+
+---
+
+### 2️⃣ leet-code-codebase
+Contains **10 Java problems** solved for:
+- Logic building
+- Problem-solving practice
+- Java syntax mastery
+
+Each problem is implemented using **optimized and readable Java code**.
+
+---
+
+### 3️⃣ scenario-based
+Contains **real-world and scenario-based Java problems**, focusing on:
+- Practical implementation
+- Logical thinking
+- Applying Core Java concepts
+
+---
+
+## 🛠️ Technologies Used
+
+- Java
+- JDK
+- Git & GitHub
+
+---
+
+## 🎯 Purpose
+
+- Strengthen Core Java fundamentals
+- Improve problem-solving skills
+- Maintain organized practice code for revision
+- Track learning progress during BridgeLabz training
+
+---
+
+## 👨‍💻 Author
+
+**Priyanshu Sharma**  
+B.Tech Computer Science  
+Capgemini Trainee
+
+---
+
+## 📜 Note
+
+This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
