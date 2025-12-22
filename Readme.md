@@ -33,7 +33,7 @@ core-java-practice/
 
 ---
 
-## 📅 Week 1: Training Schedule & Activities
+## 📅 Week 1: Core Java Foundations
 
 ### 🔹 16-Dec-2025 (Tuesday)
 - Installed and configured **JDK, JVM, and JRE**
@@ -80,9 +80,14 @@ core-java-practice/
 
 ---
 
-## 📅 Week 2: Training Schedule & Activities
+## Week 2: Strings and Problem Solving
 
-### 🔹 22-Dec-2025 (Monday)
+### 📅 23-Dec-2025 (Monday)
+- Studied **String class and string manipulation concepts**
+- Solved string-based practice problems
+- **Completed and submitted String assignment**  
+
+🔗 [Strings](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
 
 ---
 
@@ -114,4 +119,5 @@ Capgemini Trainee
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
