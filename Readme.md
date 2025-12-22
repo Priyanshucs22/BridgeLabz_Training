@@ -33,51 +33,6 @@ core-java-practice/
 
 ---
 
-## 📌 Folder Details
-
-### 1️⃣ [gcr-codebase](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase)
-Contains fundamental Core Java concepts.
-
-#### 📁 [programming-elements](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-- Variables  
-- Data Types  
-- Operators  
-- Input / Output  
-- Basic Java syntax  
-
-#### 📁 [control-flow](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-- Conditional Statements (if, if-else, switch)  
-- Loops (for, while, do-while)  
-- Flow control logic  
-
-#### 📁 [Arrays](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
-- Single-dimensional arrays  
-- Multi-dimensional arrays  
-- Array-based logic problems  
-
-#### 📁 [Strings](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
-- String methods  
-- String manipulation  
-- Character-based problems  
-
----
-
-### 2️⃣ [leet-code-codebase](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/Leet-code-codebase)
-Contains Java problems solved for:
-- Logic building  
-- Problem-solving practice  
-- Java syntax mastery  
-
----
-
-### 3️⃣ [scenario-based](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/scenario-based)
-Contains real-world and scenario-based Java problems focusing on:
-- Practical implementation  
-- Logical thinking  
-- Applying Core Java concepts  
-
----
-
 ## 📅 Week 1: Training Schedule & Activities
 
 ### 🔹 16-Dec-2025 (Tuesday)
@@ -159,3 +114,4 @@ Capgemini Trainee
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
