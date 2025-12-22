@@ -21,7 +21,9 @@ core-java-practice/
 │
 ├── gcr-codebase/
 │   ├── programming-elements/
-│   └── control-flow/
+│   ├── control-flow/
+│   ├── Arrays/
+│   └── Strings/
 │
 ├── leet-code-codebase/
 │
@@ -36,16 +38,26 @@ core-java-practice/
 Contains fundamental Core Java concepts.
 
 #### 📁 [programming-elements](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
-- Variables
-- Data Types
-- Operators
-- Input / Output
-- Basic Java syntax
+- Variables  
+- Data Types  
+- Operators  
+- Input / Output  
+- Basic Java syntax  
 
 #### 📁 [control-flow](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
-- Conditional Statements (if, if-else, switch)
-- Loops (for, while, do-while)
-- Flow control logic
+- Conditional Statements (if, if-else, switch)  
+- Loops (for, while, do-while)  
+- Flow control logic  
+
+#### 📁 [Arrays](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
+- Single-dimensional arrays  
+- Multi-dimensional arrays  
+- Array-based logic problems  
+
+#### 📁 [Strings](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
+- String methods  
+- String manipulation  
+- Character-based problems  
 
 ---
 
@@ -95,5 +107,6 @@ Capgemini Trainee
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
