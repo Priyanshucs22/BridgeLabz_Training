@@ -74,9 +74,10 @@ core-java-practice/
 ### 🔹 20-Dec-2025 (Saturday)
 - Learned **array declaration and initialization**
 - Implemented **1D and 2D array programs**
-- Practiced logic building using arrays  
+- Practiced logic building using arrays and did some scenario based problems. 
 
 🔗 [Arrays](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
+🔗 [Scenario-based](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ---
 
@@ -119,5 +120,6 @@ Capgemini Trainee
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
