@@ -66,7 +66,7 @@ BridgeLabz_Training/
 
 ---
 
-## 📅 Week 1: Core Java Foundations
+## 🔷 Core Java Foundations
 
 ### 🔹 16-Dec-2025 (Tuesday)
 - Installed and configured **JDK, JVM, and JRE**
@@ -221,6 +221,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
