@@ -13,22 +13,55 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 - **core-java-practice**
   - Contains all Core Java related practice code
 
+- **oops-practice**
+  - Contains all object oriented related problems
+
+- **dsa-practice**
+  - Contains all data structures related problems
+
 ---
 
 ## 📂 Project Structure
 
 ```text
-core-java-practice/
+BridgeLabz_Training/
 │
-├── gcr-codebase/
-│   ├── programming-elements/
-│   ├── control-flow/
-│   ├── Arrays/
-│   └── Strings/
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── programming-elements/
+│   │   ├── control-flow/
+│   │   ├── Arrays/
+│   │   ├── Strings/
+│   │   ├── Methods/
+│   │   └── Extras/
+│   │
+│   ├── leet-code-codebase/
+│   └── scenario-based/
 │
-├── leet-code-codebase/
+├── oops-practice/
+│   ├── gcr-codebase/
+│   │   ├── class-and-object/
+│   │   ├── constructors/
+│   │   |── four-pillars/
+│   │   ├── inheritance/
+│   │   ├── object-oriented-design-principles/
+│   │   └── this-static-final-keyword/
+│   │
+│   ├── leet-code-codebase/
+│   └── scenario-based/
 │
-└── scenario-based/
+└── dsa-practice/
+    ├── gcr-codebase/
+    │   ├── linear-and-binarysearch/
+    │   ├── linked-list/
+    │   ├── sorting-algorithms/
+    │   ├── stack-queue-and-hashingFunction/
+    │   ├── dummy-folder-5/
+    │   └── dummy-folder-6/
+    │
+    ├── leet-code-codebase/
+    └── scenario-based/
+
 ```
 
 ---
@@ -81,7 +114,7 @@ core-java-practice/
 
 ---
 
-## Week 2: Strings and Problem Solving
+## 🔶 Strings and Object-Oriented Programming (OOPs)
 
 ### 📅 23-Dec-2025 (Monday)
 - Studied **String class and string manipulation concepts**
@@ -89,6 +122,75 @@ core-java-practice/
 - **Completed and submitted String assignment**  
 
 🔗 [Strings](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
+
+---
+
+### 📅 24-Dec-2025 (Tuesday)
+- Learned classes and objects
+- Implemented constructors and real-world examples
+
+🔗 [class-and-object](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/class-and-object)
+🔗 [constructors](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/constructors)
+
+---
+
+### 📅 25-Dec-2025 (Wednesday)
+- Studied four pillars of OOPs
+- Implemented inheritance and polymorphism examples
+
+🔗 [four-pillars](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/four-pillars)
+🔗 [inheritance](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/inheritance)
+
+---
+
+### 📅 26-Dec-2025 (Thursday)
+- Learned this, static, and final keywords
+- Studied object-oriented design principles
+- Solved scenario-based OOPs problems
+
+🔗 [this-static-final-keywords](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/this-static-final-keyword)
+🔗 [object-oriented-design-principles](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/object-oriented-design-principles)
+
+---
+
+## 🔷 Data Structures & Algorithms (DSA)
+
+### 📅 29-Dec-2025 (Monday)
+- Learned and implemented Singly Linked List
+- Practiced linked list operations
+
+🔗 [linked-list](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linked-list)
+
+---
+
+### 📅 30-Dec-2025 (Tuesday)
+- Implemented Stack
+- Implemented Queue
+- Learned basics of hashing and HashMap
+
+🔗 [stack-queue-and-hashingFunction](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/stack-queue-and-hashingFunction)
+
+---
+
+### 📅 31-Dec-2025 (Wednesday)
+- Learned Bubble Sort
+- Learned Selection Sort
+- Learned Insertion Sort
+- Implemented sorting algorithms
+- Solve a scenario based problem based
+  
+🔗 [sorting-algorithms](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/sorting-algorithms)
+🔗 [EmployeeWages](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/scenario-based)
+
+---
+
+### 📅 01-Jan-2026 (Thursday)
+- Learned Linear Search
+- Learned Binary Search
+- Implemented searching algorithms
+- Solve a scenario based problem
+
+🔗 [linear-and-binarysearch](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linear-and-binarysearch)
 
 ---
 
@@ -113,13 +215,13 @@ core-java-practice/
 
 **Priyanshu Sharma**  
 B.Tech Computer Science  
-Capgemini Trainee  
 
 ---
 
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
