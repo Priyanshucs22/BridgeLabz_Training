@@ -56,8 +56,7 @@ BridgeLabz_Training/
     │   ├── linked-list/
     │   ├── sorting-algorithms/
     │   ├── stack-queue-and-hashingFunction/
-    │   ├── dummy-folder-5/
-    │   └── dummy-folder-6/
+    │   └── runtimeAnalysis-and-bigONotation/
     │
     ├── leet-code-codebase/
     └── scenario-based/
@@ -188,9 +187,10 @@ BridgeLabz_Training/
 - Learned Linear Search
 - Learned Binary Search
 - Implemented searching algorithms
-- Solve a scenario based problem
+- Solve a problem on runtime analysis and big O notation.
 
 🔗 [linear-and-binarysearch](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linear-and-binarysearch)
+🔗 [runtimeAnalysis-and-bigONotation](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/runtimeAnalysis-and-bigONotation)
 
 ---
 
@@ -221,6 +221,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
