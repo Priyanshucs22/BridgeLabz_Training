@@ -7,17 +7,20 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 
 ## 🌿 Branch Structure
 
-- **main**
+🔹 **main**
   - Empty (default branch)
 
-- **core-java-practice**
+🔹 **core-java-practice**
   - Contains all Core Java related practice code
 
-- **oops-practice**
+🔹**oops-practice**
   - Contains all object oriented related problems
 
-- **dsa-practice**
+🔹 **dsa-practice**
   - Contains all data structures related problems
+ 
+🔹 **collection-practice**
+  - Contains Java Collections Framework, Generics, Regex, and Functional Interface practice code 
 
 ---
 
@@ -242,6 +245,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
