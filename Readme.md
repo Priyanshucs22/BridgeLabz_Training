@@ -50,16 +50,28 @@ BridgeLabz_Training/
 │   ├── leet-code-codebase/
 │   └── scenario-based/
 │
-└── dsa-practice/
-    ├── gcr-codebase/
-    │   ├── linear-and-binarysearch/
-    │   ├── linked-list/
-    │   ├── sorting-algorithms/
-    │   ├── stack-queue-and-hashingFunction/
-    │   └── runtimeAnalysis-and-bigONotation/
-    │
-    ├── leet-code-codebase/
-    └── scenario-based/
+├── dsa-practice/
+|   ├── gcr-codebase/
+|   │   ├── linear-and-binarysearch/
+|   │   ├── linked-list/
+|   │   ├── sorting-algorithms/
+|   │   ├── stack-queue-and-hashingFunction/
+|   │   └── runtimeAnalysis-and-bigONotation/
+|   │
+|   ├── leet-code-codebase/
+|   └── scenario-based/
+|
+├── collection-practice/
+|   ├── gcr-codebase/
+|   │   ├── generics/
+|   │   ├── /
+|   │   ├── /
+|   │   ├── /
+|   │   └── /
+|   │
+|   ├── leet-code-codebase/
+|   └── scenario-based/
+
 
 ```
 
@@ -192,6 +204,15 @@ BridgeLabz_Training/
 🔗 [linear-and-binarysearch](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linear-and-binarysearch)
 🔗 [runtimeAnalysis-and-bigONotation](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/runtimeAnalysis-and-bigONotation)
 
+## 🔷 Java Collections Framework & Advanced Concepts
+
+### 📅 02-Jan-2026 (Thursday)
+-Started Collections Practice in a new branch
+-Learned Generics fundamentals and their importance
+-Implemented generic classes, methods, and bounded types
+
+🔗[generics](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/generics)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -221,6 +242,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
