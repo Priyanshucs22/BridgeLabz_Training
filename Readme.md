@@ -67,7 +67,7 @@ BridgeLabz_Training/
 ├── collection-practice/
 |   ├── gcr-codebase/
 |   │   ├── generics/
-|   │   ├── /
+|   │   ├── collections/
 |   │   ├── /
 |   │   ├── /
 |   │   └── /
@@ -209,12 +209,19 @@ BridgeLabz_Training/
 
 ## 🔷 Java Collections Framework & Advanced Concepts
 
-### 📅 02-Jan-2026 (Thursday)
+### 📅 02-Jan-2026 (Friday)
 -Started Collections Practice in a new branch
 -Learned Generics fundamentals and their importance
 -Implemented generic classes, methods, and bounded types
 
 🔗[generics](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/generics)
+
+### 📅 03-Jan-2026 (Saturday)
+-Learned Gcollections framework fundamentals and their importance
+-Learned collections interfaces and classes.
+-Solve a problem using classes.
+
+🔗[collections](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/collections)
 
 ---
 
@@ -245,6 +252,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
