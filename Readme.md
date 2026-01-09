@@ -69,7 +69,7 @@ BridgeLabz_Training/
 |   │   ├── generics/
 |   │   ├── collections/
 |   │   ├── streams/
-|   │   ├── /
+|   │   ├── exception-handling/
 |   │   └── /
 |   │
 |   ├── leet-code-codebase/
@@ -235,11 +235,23 @@ BridgeLabz_Training/
 
 🔗[streams](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/streams)
 
-### 📅 07-Jan-2026 (Tuesday)
+### 📅 07-Jan-2026 (Wednesday)
 - Practiced I/O Streams problems to become comfortable with all methods
 - Solved scenario-based problems for better understanding
 
 🔗[streams](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/streams)
+
+### 📅 08-Jan-2026 (Thursday)
+- Learned exception handling fundamentals and their importance
+- Did a deep dive into core concepts
+
+🔗[exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/sexception-handling)
+
+### 📅 07-Jan-2026 (Friday)
+- Practiced exceptions-handling problems to become comfortable with all exceptions.
+- Solved scenario-based problems for better understanding
+
+🔗[exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/exception-handling)
 
 ---
 
@@ -270,6 +282,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
