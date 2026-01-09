@@ -247,7 +247,7 @@ BridgeLabz_Training/
 
 🔗[exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/sexception-handling)
 
-### 📅 07-Jan-2026 (Friday)
+### 📅 09-Jan-2026 (Friday)
 - Practiced exceptions-handling problems to become comfortable with all exceptions.
 - Solved scenario-based problems for better understanding
 
@@ -282,6 +282,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
