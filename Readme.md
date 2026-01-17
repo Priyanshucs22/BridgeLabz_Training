@@ -70,8 +70,9 @@ BridgeLabz_Training/
 |   │   ├── collections/
 |   │   ├── streams/
 |   │   ├── exception-handling/
-|   │   └── /
-|   │
+|   │   ├── regex-and-junit/
+|   │   └── reflections-annotations/
+|   |
 |   ├── leet-code-codebase/
 |   └── scenario-based/
 
@@ -312,6 +313,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
