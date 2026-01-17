@@ -253,6 +253,36 @@ BridgeLabz_Training/
 
 🔗[exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/exception-handling)
 
+### 📅 12-Jan-2026 (Monday)
+- Learned basic regex patterns like ^, $, *, +, ?, and character classes to validate strings.
+- Practiced using regex in Java with methods like matches(), replaceAll(), and split().
+
+🔗[regex-and-junit](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/regex-and-junit)
+
+### 📅 13-Jan-2026 (Tuesday)
+- Learned unit testing basics using @Test, @BeforeEach, and @AfterEach annotations.
+- Practiced writing test cases using assertions like assertEquals() and assertTrue() to verify code correctness.
+
+🔗[regex-and-junit](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/regex-and-junit)
+
+### 📅 14-Jan-2026 (Wednesday)
+- Studied built-in annotations like @Override, @Deprecated, @SuppressWarnings, and custom annotations.
+- Learned how annotations help in reducing boilerplate code and improving code readability.
+
+🔗[reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
+
+### 📅 15-Jan-2026 (Thursday)
+- Learned how reflection is used to inspect classes, methods, fields, and constructors at runtime.
+- Understood real-world usage of reflection in frameworks like Spring for dependency injection and object creation.
+- 
+🔗[reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
+
+### 📅 16-Jan-2026 (Friday)
+- Did a deep dive to understand the concepts of annotations and reflections.
+- Solved scenario-based problems for better understanding.
+
+🔗[reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -282,6 +312,7 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **learning and practice purposes** as part of the BridgeLabz program.
+
 
 
 
