@@ -1,0 +1,251 @@
+# BridgeLabz Training – Java Full Stack Practice 🚀
+
+## 📌 Description
+This repository contains **day-wise learning, practice programs, and assignments** completed during the **BridgeLabz Training Program**.  
+Each day focuses on specific concepts along with hands-on coding exercises and problem-solving practice.
+
+---
+
+## 📂 Folder Structure
+
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── programming-elements/
+│   │   ├── control-flow/
+│   │   ├── arrays/
+│   │   ├── string/
+│   │   ├── java-method/
+│   │   └── java-extras/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+│
+├── oops-practice/
+│   ├── gcr-codebase/
+│   │   ├── class-and-object/
+│   │   ├── java-constructor/
+│   │   ├── java-keywords/
+│   │   ├── object-oriented-designprinciples/
+│   │   └── oops-pillars/
+│   ├── scenario-based/
+│   │   └── address-book-problem/
+│   └── leet-code-codebase/
+│
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   │   ├── linkedlist/
+│   │   ├── sorting-algorithm/
+│   │   ├── linear-and-binary-search/
+│   │   ├── stack-queue-and-hashingfunction/
+│   │   └── Algorithm-Runtime-Analysis/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── collections-practice/
+│   ├── gcr-codebase/
+│   │   ├── generics/
+│   │   ├── collections/
+│   │   ├── java-streams/
+│   │   ├── exceptions/
+│   │   ├── regex-and-junit/
+│   │   └── annotations-and-reflection/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+├── ioprogramming-practice/
+|   ├── gcr-codebase/
+│       ├── csv-handling/
+│       └── json-data-handling/
+│
+├── java-8-features/
+|   ├── gcr-codebase/
+│       └── lambda-expressions/
+
+---
+
+## 📅 Daily Progress Overview
+
+## 🟦 Core Java Practice
+
+### 📅 Day 01 – 16 Dec 2025 (Tuesday)
+- Program orientation
+- Installed and configured Java environment
+- Solved 5 LeetCode problems
+
+### 📅 Day 02 – 17 Dec 2025 (Wednesday)
+- Studied Java history and features
+- Solved Programming Elements problems
+- Solved 5 LeetCode problems
+
+### 📅 Day 03 – 18 Dec 2025 (Thursday)
+- Variables, data types, and operators
+- Input / Output operations
+- Completed Programming Elements assignment
+
+### 📅 Day 04 – 19 Dec 2025 (Friday)
+- Control Flow and loops
+- Solved and submitted Control Flow assignment
+
+### 📅 Day 05 – 20 Dec 2025 (Saturday)
+- Arrays (creation, access, modification)
+- Solved Arrays assignment
+- Scenario-based Array problems
+
+### 📅 Day 06 – 22 Dec 2025 (Monday)
+- Java Strings
+- String manipulation practice
+- Completed String assignment
+
+### 📅 Day 07 – 23 Dec 2025 (Tuesday)
+- Java Methods
+- Parameters and return values
+- Extra String and built-in function problems
+
+---
+
+## 🟩 Object-Oriented Programming (OOPs)
+
+### 📅 Day 08 – 24 Dec 2025 (Wednesday)
+- Class and Object concepts
+- Constructors (default & parameterized)
+- Completed related assignments
+
+### 📅 Day 09 – 26 Dec 2025 (Friday)
+- Java keywords
+- OOPs Pillars:
+  - Encapsulation
+  - Abstraction
+  - Inheritance
+  - Polymorphism
+- Solved OOPs Pillars assignments
+
+### 📅 Day 10 – 27 Dec 2025 (Saturday)
+- Address Book application (OOPs Scenario-Based)
+- Applied classes, objects, and encapsulation
+- Implemented real-world data management logic
+
+---
+
+## 🟨 Data Structures & Algorithms (DSA)
+
+### 📅 Day 11 – 29 Dec 2025 (Monday)
+- Linked List concepts
+- Completed Linked List assignment
+
+### 📅 Day 12 – 30 Dec 2025 (Tuesday)
+- Stack, Queue, and Hashing
+- Sorting Algorithms
+- Completed related assignments
+
+### 📅 Day 13 – 31 Dec 2025 (Wednesday)
+- Searching Algorithms
+- Linear Search and Binary Search
+- Scenario-based OOPs problems
+
+### 📅 Day 14 – 01 Jan 2026 (Thursday)
+- Runtime Analysis and Big-O Notation
+- Completed Runtime Analysis assignment
+
+### 📅 Day 15 – 02 Jan 2026 (Friday)
+- Scenario-based Java and OOPs problems
+- Revision of previous topics
+
+---
+
+## 🟧 Java Collections & Advanced Java
+
+### 📅 Day 16 – 03 Jan 2026 (Saturday)
+- Java Generics
+- Type parameters and usage
+- Completed Generics assignment
+
+### 📅 Day 17 – 05 Jan 2026 (Monday)
+- Collections Framework fundamentals
+- List, Set, and Map concepts
+- Completed Collections assignment
+
+### 📅 Day 18 – 06 Jan 2026 (Tuesday)
+- Java Streams introduction
+- Understanding stream processing
+
+### 📅 Day 19 – 07 Jan 2026 (Wednesday)
+- Stream-based problem solving
+- Completed Java Streams assignment
+
+### 📅 Day 20 – 08 Jan 2026 (Thursday)
+- Exception Handling
+- try-catch-finally and custom exceptions
+- Completed Exceptions assignment
+
+### 📅 Day 21 – 09 Jan 2026 (Friday)
+- Core Java and OOPs revision
+- Scenario-based problems
+
+### 📅 Day 22 – 12 Jan 2026 (Monday)
+- Regular Expressions (Regex)
+- Pattern matching basics
+
+### 📅 Day 23 – 13 Jan 2026 (Tuesday)
+- JUnit Testing
+- Unit test cases and assertions
+- Completed Regex and JUnit assignment
+
+### 📅 Day 24 – 14 Jan 2026 (Wednesday)
+- Java Annotations
+- Built-in annotations practice
+
+### 📅 Day 25 – 15 Jan 2026 (Thursday)
+- Advanced Annotation usage
+
+### 📅 Day 26 – 16 Jan 2026 (Friday)
+- Java Reflection API
+- Runtime class and method inspection
+
+---
+
+## 🟪 IO Programming Practice
+
+### 📅 Day 27 – 19 Jan 2026 (Monday)
+- CSV File Handling
+- Reading and writing CSV files
+- Parsing structured CSV data
+- Completed CSV handling assignment
+
+### 📅 Day 28 – 20 Jan 2026 (Tuesday)
+- JSON Data Handling
+- Reading and writing JSON files
+- Parsing JSON using Java libraries
+- Completed JSON data handling assignment
+
+---
+
+## 🟫 Java 8 Features
+
+### 📅 Day 29 – 22 Jan 2026 (Thursday)
+- Java 8 Lambda Expressions
+- Functional Interfaces
+- Clean and concise functional-style coding
+
+### 📅 Day 30 – 23 Jan 2026 (Friday)
+- Lambda-based problem solving
+- Implemented real-world examples using lambdas
+
+🔗 [lambda-expressions](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/java8-features-practice/gcr-codebase/lambda-expressions)
+
+---
+
+🛠 Technologies Used
+-Java
+-Git & GitHub
+-VS Code / IntelliJ IDEA
+-Command Line
+
+---
+
+---
+
+## 👤 Author
+**Priyanshu Sharma**  
+
+---
