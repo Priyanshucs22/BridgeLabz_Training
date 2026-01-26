@@ -235,11 +235,12 @@ BridgeLabz-Training/
 
 ---
 
-🛠 Technologies Used
--Java
--Git & GitHub
--VS Code / IntelliJ IDEA
--Command Line
+## 🛠 Technologies Used
+
+- Java  
+- Git & GitHub  
+- VS Code / IntelliJ IDEA  
+- Command Line
 
 ---
 
@@ -249,4 +250,5 @@ BridgeLabz-Training/
 **Priyanshu Sharma**  
 
 ---
+
 
