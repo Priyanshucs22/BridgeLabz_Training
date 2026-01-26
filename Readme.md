@@ -5,7 +5,7 @@ This repository contains **day-wise learning, practice programs, and assignments
 Each day focuses on specific concepts along with hands-on coding exercises and problem-solving practice.
 
 ---
-
+```
 ## 📂 Folder Structure
 
 BridgeLabz-Training/
@@ -61,7 +61,7 @@ BridgeLabz-Training/
 ├── java-8-features/
 |   ├── gcr-codebase/
 │       └── lambda-expressions/
-
+```
 ---
 
 ## 📅 Daily Progress Overview
@@ -249,3 +249,4 @@ BridgeLabz-Training/
 **Priyanshu Sharma**  
 
 ---
+
