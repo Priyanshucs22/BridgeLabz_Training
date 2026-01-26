@@ -49,13 +49,13 @@ BridgeLabz-Training/
 │   │   ├── java-streams/
 │   │   ├── exceptions/
 │   │   ├── regex-and-junit/
-│   │   └── annotations-and-reflection/
+│   │   └── reflections-annotations/
 │   ├── scenario-based/
 │   └── leet-code-codebase/
 │
 ├── ioprogramming-practice/
 |   ├── gcr-codebase/
-│       ├── csv-handling/
+│       ├── csvDataHandling/
 │       └── json-data-handling/
 │
 ├── java-8-features/
@@ -68,36 +68,36 @@ BridgeLabz-Training/
 
 ## 🟦 Core Java Practice
 
-### 📅 Day 01 – 16 Dec 2025 (Tuesday)
+### 📅 16 Dec 2025 (Tuesday)
 - Program orientation
 - Installed and configured Java environment
 - Solved 5 LeetCode problems
 
-### 📅 Day 02 – 17 Dec 2025 (Wednesday)
+### 📅 17 Dec 2025 (Wednesday)
 - Studied Java history and features
 - Solved Programming Elements problems
 - Solved 5 LeetCode problems
 
-### 📅 Day 03 – 18 Dec 2025 (Thursday)
+### 📅 18 Dec 2025 (Thursday)
 - Variables, data types, and operators
 - Input / Output operations
 - Completed Programming Elements assignment
 
-### 📅 Day 04 – 19 Dec 2025 (Friday)
+### 📅 19 Dec 2025 (Friday)
 - Control Flow and loops
 - Solved and submitted Control Flow assignment
 
-### 📅 Day 05 – 20 Dec 2025 (Saturday)
+### 📅 20 Dec 2025 (Saturday)
 - Arrays (creation, access, modification)
 - Solved Arrays assignment
 - Scenario-based Array problems
 
-### 📅 Day 06 – 22 Dec 2025 (Monday)
+### 📅 22 Dec 2025 (Monday)
 - Java Strings
 - String manipulation practice
 - Completed String assignment
 
-### 📅 Day 07 – 23 Dec 2025 (Tuesday)
+### 📅 23 Dec 2025 (Tuesday)
 - Java Methods
 - Parameters and return values
 - Extra String and built-in function problems
@@ -106,12 +106,12 @@ BridgeLabz-Training/
 
 ## 🟩 Object-Oriented Programming (OOPs)
 
-### 📅 Day 08 – 24 Dec 2025 (Wednesday)
+### 📅 24 Dec 2025 (Wednesday)
 - Class and Object concepts
 - Constructors (default & parameterized)
 - Completed related assignments
 
-### 📅 Day 09 – 26 Dec 2025 (Friday)
+### 📅 26 Dec 2025 (Friday)
 - Java keywords
 - OOPs Pillars:
   - Encapsulation
@@ -120,7 +120,7 @@ BridgeLabz-Training/
   - Polymorphism
 - Solved OOPs Pillars assignments
 
-### 📅 Day 10 – 27 Dec 2025 (Saturday)
+### 📅 27 Dec 2025 (Saturday)
 - Address Book application (OOPs Scenario-Based)
 - Applied classes, objects, and encapsulation
 - Implemented real-world data management logic
@@ -129,25 +129,25 @@ BridgeLabz-Training/
 
 ## 🟨 Data Structures & Algorithms (DSA)
 
-### 📅 Day 11 – 29 Dec 2025 (Monday)
+### 📅 29 Dec 2025 (Monday)
 - Linked List concepts
 - Completed Linked List assignment
 
-### 📅 Day 12 – 30 Dec 2025 (Tuesday)
+### 📅 30 Dec 2025 (Tuesday)
 - Stack, Queue, and Hashing
 - Sorting Algorithms
 - Completed related assignments
 
-### 📅 Day 13 – 31 Dec 2025 (Wednesday)
+### 📅 31 Dec 2025 (Wednesday)
 - Searching Algorithms
 - Linear Search and Binary Search
 - Scenario-based OOPs problems
 
-### 📅 Day 14 – 01 Jan 2026 (Thursday)
+### 📅 01 Jan 2026 (Thursday)
 - Runtime Analysis and Big-O Notation
 - Completed Runtime Analysis assignment
 
-### 📅 Day 15 – 02 Jan 2026 (Friday)
+### 📅 02 Jan 2026 (Friday)
 - Scenario-based Java and OOPs problems
 - Revision of previous topics
 
@@ -155,79 +155,107 @@ BridgeLabz-Training/
 
 ## 🟧 Java Collections & Advanced Java
 
-### 📅 Day 16 – 03 Jan 2026 (Saturday)
+### 📅 03 Jan 2026 (Saturday)
 - Java Generics
 - Type parameters and usage
 - Completed Generics assignment
 
-### 📅 Day 17 – 05 Jan 2026 (Monday)
+🔗 [generics](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/generics)
+
+### 📅 05 Jan 2026 (Monday)
 - Collections Framework fundamentals
 - List, Set, and Map concepts
 - Completed Collections assignment
 
-### 📅 Day 18 – 06 Jan 2026 (Tuesday)
+🔗 [collections](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/collections)
+
+### 📅 06 Jan 2026 (Tuesday)
 - Java Streams introduction
 - Understanding stream processing
 
-### 📅 Day 19 – 07 Jan 2026 (Wednesday)
+🔗 [streams](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/streams)  
+
+### 📅 07 Jan 2026 (Wednesday)
 - Stream-based problem solving
 - Completed Java Streams assignment
 
-### 📅 Day 20 – 08 Jan 2026 (Thursday)
+🔗 [streams](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/streams)
+
+### 📅 08 Jan 2026 (Thursday)
 - Exception Handling
 - try-catch-finally and custom exceptions
 - Completed Exceptions assignment
 
-### 📅 Day 21 – 09 Jan 2026 (Friday)
-- Core Java and OOPs revision
+🔗 [exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/exception-handling)
+
+### 📅 09 Jan 2026 (Friday)
+- Deep dive into the concepts of exceptions
 - Scenario-based problems
 
-### 📅 Day 22 – 12 Jan 2026 (Monday)
+🔗 [exception-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/exception-handling)
+
+### 📅 12 Jan 2026 (Monday)
 - Regular Expressions (Regex)
 - Pattern matching basics
 
-### 📅 Day 23 – 13 Jan 2026 (Tuesday)
+🔗 [regex-and-junit](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/regex-and-junit)
+
+🔗 ### 📅 13 Jan 2026 (Tuesday)
 - JUnit Testing
 - Unit test cases and assertions
 - Completed Regex and JUnit assignment
 
-### 📅 Day 24 – 14 Jan 2026 (Wednesday)
+🔗 [regex-and-junit](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/regex-and-junit)
+
+### 📅 14 Jan 2026 (Wednesday)
 - Java Annotations
 - Built-in annotations practice
 
-### 📅 Day 25 – 15 Jan 2026 (Thursday)
+🔗 [reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
+
+### 📅 15 Jan 2026 (Thursday)
 - Advanced Annotation usage
 
-### 📅 Day 26 – 16 Jan 2026 (Friday)
+🔗 [reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
+
+### 📅 16 Jan 2026 (Friday)
 - Java Reflection API
 - Runtime class and method inspection
+
+🔗 [reflections-annotations](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/collection-practice/gcr-codebase/reflections-annotations)
 
 ---
 
 ## 🟪 IO Programming Practice
 
-### 📅 Day 27 – 19 Jan 2026 (Monday)
+### 📅 19 Jan 2026 (Monday)
 - CSV File Handling
 - Reading and writing CSV files
 - Parsing structured CSV data
 - Completed CSV handling assignment
 
-### 📅 Day 28 – 20 Jan 2026 (Tuesday)
+🔗 [csvDataHandling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/io-programming-practice/grc-codebase/csvDataHandling)
+
+### 📅 20 Jan 2026 (Tuesday)
 - JSON Data Handling
 - Reading and writing JSON files
 - Parsing JSON using Java libraries
 - Completed JSON data handling assignment
 
+🔗 [json-data-handling](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/io-programming-practice/grc-codebase/json-data-handling)
+
 ---
 
 ## 🟫 Java 8 Features
 
-### 📅 Day 29 – 22 Jan 2026 (Thursday)
+### 📅 22 Jan 2026 (Thursday)
 - Java 8 Lambda Expressions
 - Functional Interfaces
 - Clean and concise functional-style coding
 
-### 📅 Day 30 – 23 Jan 2026 (Friday)
+🔗 [lambda-expressions](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/java8-features-practice/gcr-codebase/lambda-expressions)
+
+### 📅 23 Jan 2026 (Friday)
 - Lambda-based problem solving
 - Implemented real-world examples using lambdas
 
@@ -244,11 +272,10 @@ BridgeLabz-Training/
 
 ---
 
----
-
 ## 👤 Author
 **Priyanshu Sharma**  
 
 ---
+
 
 
