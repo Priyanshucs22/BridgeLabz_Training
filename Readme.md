@@ -16,8 +16,8 @@ BridgeLabz-Training/
 │   │   ├── control-flow/
 │   │   ├── arrays/
 │   │   ├── string/
-│   │   ├── java-method/
-│   │   └── java-extras/
+│   │   ├── methods/
+│   │   └── extras/
 │   ├── leet-code-codebase/
 │   └── scenario-based/
 │
@@ -71,36 +71,47 @@ BridgeLabz-Training/
 ### 📅 16 Dec 2025 (Tuesday)
 - Program orientation
 - Installed and configured Java environment
-- Solved 5 LeetCode problems
 
 ### 📅 17 Dec 2025 (Wednesday)
 - Studied Java history and features
 - Solved Programming Elements problems
-- Solved 5 LeetCode problems
+- Solved LeetCode problems
+
+🔗 [Leet-code-codebase](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/Leet-code-codebase)
 
 ### 📅 18 Dec 2025 (Thursday)
 - Variables, data types, and operators
 - Input / Output operations
 - Completed Programming Elements assignment
 
+🔗 [programming-elements](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
 ### 📅 19 Dec 2025 (Friday)
 - Control Flow and loops
 - Solved and submitted Control Flow assignment
+
+🔗 [control-flow](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 ### 📅 20 Dec 2025 (Saturday)
 - Arrays (creation, access, modification)
 - Solved Arrays assignment
 - Scenario-based Array problems
 
+🔗 [arrays](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Arrays)
+
 ### 📅 22 Dec 2025 (Monday)
 - Java Strings
 - String manipulation practice
 - Completed String assignment
 
+🔗 [strings](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Strings)
+
 ### 📅 23 Dec 2025 (Tuesday)
 - Java Methods
 - Parameters and return values
 - Extra String and built-in function problems
+
+🔗 [methods](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/core-java-practice/core-java-practice/gcr-codebase/Methods)
 
 ---
 
@@ -111,6 +122,9 @@ BridgeLabz-Training/
 - Constructors (default & parameterized)
 - Completed related assignments
 
+🔗 [class-and-object](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/class-and-object)
+🔗 [constructors](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/constructors)
+
 ### 📅 26 Dec 2025 (Friday)
 - Java keywords
 - OOPs Pillars:
@@ -119,11 +133,19 @@ BridgeLabz-Training/
   - Inheritance
   - Polymorphism
 - Solved OOPs Pillars assignments
+- Design principles
+
+🔗 [inheritance](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/inheritance)
+🔗 [keywords](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/this-static-final-keyword)
+🔗 [four-pillars](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/four-pillars)
+🔗 [object-oriented-design-principles](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/gcr-codebase/object-oriented-design-principles)
 
 ### 📅 27 Dec 2025 (Saturday)
 - Address Book application (OOPs Scenario-Based)
 - Applied classes, objects, and encapsulation
 - Implemented real-world data management logic
+
+🔗 [scenario-based](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/oops-practice/scenario-based)
 
 ---
 
@@ -133,23 +155,34 @@ BridgeLabz-Training/
 - Linked List concepts
 - Completed Linked List assignment
 
+🔗 [linked-list](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linked-list)
+
 ### 📅 30 Dec 2025 (Tuesday)
 - Stack, Queue, and Hashing
 - Sorting Algorithms
 - Completed related assignments
+
+🔗 [stack-queue-and-hashingFunction](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/stack-queue-and-hashingFunction)
+🔗 [sorting-algorithms](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/sorting-algorithms)
 
 ### 📅 31 Dec 2025 (Wednesday)
 - Searching Algorithms
 - Linear Search and Binary Search
 - Scenario-based OOPs problems
 
+🔗 [linear-and-binarysearch](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/linear-and-binarysearch)
+
 ### 📅 01 Jan 2026 (Thursday)
 - Runtime Analysis and Big-O Notation
 - Completed Runtime Analysis assignment
 
+🔗 [runtimeAnalysis-and-bigONotation](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/gcr-codebase/runtimeAnalysis-and-bigONotation)
+
 ### 📅 02 Jan 2026 (Friday)
 - Scenario-based Java and OOPs problems
 - Revision of previous topics
+
+🔗 [scenario-based](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/dsa-practice/scenario-based)
 
 ---
 
@@ -276,6 +309,7 @@ BridgeLabz-Training/
 **Priyanshu Sharma**  
 
 ---
+
 
 
 
