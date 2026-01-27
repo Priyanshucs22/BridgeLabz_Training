@@ -60,7 +60,8 @@ BridgeLabz-Training/
 │
 ├── java-8-features/
 |   ├── gcr-codebase/
-│       └── lambda-expressions/
+|       ├── lambda-expressions/
+│       └── functional-interfaces/
 ```
 ---
 
@@ -294,6 +295,13 @@ BridgeLabz-Training/
 
 🔗 [lambda-expressions](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/java8-features-practice/gcr-codebase/lambda-expressions)
 
+### 📅 27 Jan 2026 (Tuesday)
+- Used functional interfaces to define single abstract method contracts.
+- Leveraged lambda expressions and method references for concise implementations. 
+- Implemented real-world examples using functional interfaces
+
+🔗 [functional-interfaces](https://github.com/Priyanshucs22/BridgeLabz_Training/tree/java8-features-practice/gcr-codebase/functional-interfaces)
+
 ---
 
 ## 🛠 Technologies Used
@@ -309,6 +317,7 @@ BridgeLabz-Training/
 **Priyanshu Sharma**  
 
 ---
+
 
 
 
